@@ -11,8 +11,8 @@ function App() {
                   <span><img src="/cv.png" alt="" /></span>
                 </div>
                 <ol>
-                  <li><a href="#">Contactar Tutor</a></li>
-                  <li><a href="#">Questões</a></li>
+                  <li><a href="https://wa.me/244925786916?"  target="_blank">Contactar Tutor</a></li>
+                  <li><a href="#questoes">Questões</a></li>
                   <li className='a4'>Ebook</li>
                 </ol>
             </header>
@@ -79,7 +79,7 @@ function App() {
                   </article>
                 </section>
                 <details>
-                <summary>
+                <summary id='questoes'>
                       Questões Constantes.
                 </summary>
                     <h2>
